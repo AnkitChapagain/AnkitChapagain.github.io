@@ -257,31 +257,31 @@ section{
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(2) .bar span{
-    width: 95%;
+    width: 35%;
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(3) .bar span{
-    width: 80%;
+    width: 75%;
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(4) .bar span{
-    width: 65%;
+    width: 30%;
 }
 
 .about .row .box:nth-child(1) .progress:nth-child(5) .bar span{
-    width: 75%;
+    width: 70%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(2) .bar span{
-    width: 98%;
+    width: 73%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(3) .bar span{
-    width: 67%;
+    width: 45%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(4) .bar span{
-    width: 75%;
+    width: 70%;
 }
 
 .about .row .box:nth-child(2) .progress:nth-child(5) .bar span{
